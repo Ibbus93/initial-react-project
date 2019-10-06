@@ -1,0 +1,20 @@
+/*.App {*/
+/*  text-align: center;*/
+/*}*/
+
+/*.header, .footer {*/
+/*  width: 100%;*/
+/*  text-align: center;*/
+/*}*/
+
+body {
+    background: lightblue;
+}
+
+header {
+    height: 8vh;
+}
+
+.footer {
+    background-color: lightblue;
+}
